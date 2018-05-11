@@ -1,5 +1,6 @@
 body {
 	background-image: url("../images/rupeebgrouund.jpg");
+	
 }
 
 h1{
@@ -13,10 +14,12 @@ h1{
 }
 
 #instructions {
+	background-color: rgb(4, 97, 4);
 	width: 50%;
 	clear:both;
 	padding: 15px;
 	margin-top: 20px;
+	
 	
 	
 }
