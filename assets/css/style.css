@@ -1,0 +1,65 @@
+body {
+	background-image: url("../images/rupeebgrouund.jpg");
+}
+
+h1{
+	background-color: rgb(223, 145, 0);
+	color: white;
+	display:inline;
+	clear: both;
+	padding: 10px;
+	
+	
+}
+
+#instructions {
+	background-color: rgb(4, 97, 4);
+	width: 50%;
+	clear:both;
+	padding: 15px;
+	margin-top: 20px;
+	
+	
+}
+
+#guessNumber {
+	background-color: rgb(4, 97, 4);
+	float:left;
+	padding: 10px;
+	margin-top: 20px;
+	
+}
+
+#scoreboard {
+	background-color: rgb(121, 8, 165);
+	display: inline-block;
+	padding: 15px 20px 10px 15px;
+	margin-top: 20px;
+	margin-left: 150px;
+	
+
+}
+
+#crystals {
+	margin-top: 15px;
+	margin-bottom:26px;
+
+}
+
+.crystalImage {
+	height: 111px;
+	border: solid 1px  rgb(4, 97, 4);
+	margin-left: 10px;
+	background-color:whitesmoke;
+}
+
+#totalScore {
+	margin-bottom: 50px;
+}
+
+#totScore {
+	background: #009688;
+	display: inline;
+	padding: 20px;
+	
+}
