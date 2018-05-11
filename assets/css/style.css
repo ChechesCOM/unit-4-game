@@ -55,12 +55,9 @@ h1{
 	background-color:whitesmoke;
 }
 
-#totalScore {
-	margin-bottom: 50px;
-}
 
 #totScore {
-	background: #009688;
+	background: rgb(4, 97, 4);
 	display: inline;
 	padding: 20px;
 	

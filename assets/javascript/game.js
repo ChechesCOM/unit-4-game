@@ -1,4 +1,5 @@
 $(document).ready(function() {
+	
 
 	crystals = ['assets/images/blueRupee.jpg','assets/images/redRupee.png','assets/images/silverRupee.png','assets/images/yellowRupee.jpg'];
 
